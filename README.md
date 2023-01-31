@@ -1,5 +1,6 @@
 # HelloWorldGoServer
 GO + Docker + unit tests
+Faith
 
 
 ## Running the app locally
